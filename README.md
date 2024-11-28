@@ -31,6 +31,7 @@ The loss and accuracy values are reported in the terminal.
 At the end of training, graphs depicting the loss and accuracy trends are generated.
 
 Code Workflow
+
 1- Data Loading and Preprocessing:
 The dataset is read from a CSV file.
 Numeric columns are normalized.
